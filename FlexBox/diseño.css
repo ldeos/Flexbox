@@ -1,0 +1,40 @@
+body{
+    background: black;
+}
+
+
+.container{
+    background: rgb(19, 17, 17);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 100vh; 
+    flex-wrap: wrap;  
+}
+
+
+
+.uno{
+    background: red;
+    height: 200px;
+    width: 200px;
+    border-radius: 15px;
+
+}
+
+
+.dos{
+    background: rgb(255, 234, 0);
+    height: 200px;
+    width: 200px;
+    border-radius: 15px;
+
+}
+
+.tres{
+    background: rgb(0, 89, 255);
+    height: 200px;
+    width: 200px;
+    border-radius: 15px;
+
+}
